@@ -41,4 +41,12 @@ I'm a developer passionate about creating efficient database solutions and enhan
 
 ---
 
+### 🛠️ My Favorite Python Tools
+
+- **PyQt5** 🎭 — *Interfaces for humans*  
+- **Pandas** 🐼 — *Data: tamed, sorted*  
+- **Selenium** 🤖 — *Bots doing work*  
+
+---
+
 Thank you for stopping by! 🚀

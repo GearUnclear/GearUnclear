@@ -1,4 +1,4 @@
-# 👋 Gear Unclear
+# 👋 Dane Wagenhoffer
 
 ## Welcome to My GitHub Profile!
 
